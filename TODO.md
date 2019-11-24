@@ -1,0 +1,18 @@
+
+- [x] bash
+- [x] c
+- [x] c#
+- [x] c++
+- [x] clojure
+- [x] erlang
+- [x] go
+- [x] haskell
+- [x] java
+- [x] kotlin
+- [x] node / js
+- [x] perl
+- [x] python
+- [x] ruby
+- [x] rust
+- [x] scala
+- [x] swift
